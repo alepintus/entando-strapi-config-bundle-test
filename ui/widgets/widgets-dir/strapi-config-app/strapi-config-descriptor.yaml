@@ -1,0 +1,6 @@
+code: strapi-config-app
+titles:
+  en: Strapi Config
+  it: Strapi Config
+group: free
+customUiPath: strapi-config-widget.ftl
